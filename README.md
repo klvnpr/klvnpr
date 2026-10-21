@@ -77,12 +77,12 @@ I use GitHub to **share my projects**, **document my learning journey**, **exper
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=klvnpr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klvnpr&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=klvnpr&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
