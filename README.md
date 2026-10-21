@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-2ea44f?style=for-the-badge&logo=rocket&logoColor=white)
 
 </div>
@@ -50,11 +49,9 @@ I'm constantly learning new technologies, improving my programming skills, and e
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,excel,mysql,postgres,python,js,html,css&theme=dark" alt="skills" />
-
 ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
